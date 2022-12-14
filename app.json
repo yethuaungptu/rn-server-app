@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rn-server-frame",
+    "slug": "rn-server-frame",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
